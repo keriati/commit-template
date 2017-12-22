@@ -1,6 +1,6 @@
 {
   "name": "commit-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows projects to define commit template files",
   "bin": {
     "commit-template": "./bin/commit-template"
